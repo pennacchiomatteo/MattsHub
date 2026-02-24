@@ -1,8 +1,8 @@
-site_name: NonSoCosaSiamo
+site_name: Matt'sHub
 site_url: https://mydomain.org/mysite
 theme: 
   name: material
-  logo: image/logo.png
+  logo: image/mattshub.png
   theme:
   extra_css:
       - css/custom.css
