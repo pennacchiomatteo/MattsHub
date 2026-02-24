@@ -1,3 +1,3 @@
 # Welcome in Matt'sHub
 
-![Foto](home/mattshub.png)
+![Foto](docs/mattshub.png)
