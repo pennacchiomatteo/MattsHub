@@ -6,4 +6,4 @@ Sotto la piattaforma sono installate delle turbine biomimetiche e membrane filtr
 
  ![foto](pattern.jpg).
 
-[Scarica la foto](docs/pattern.jpg)
+[Scarica la foto](pattern.jpg)
