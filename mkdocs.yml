@@ -57,8 +57,8 @@ theme:
 
 nav:
 - Home: index.md
-- Chi sono: 
-    Bio: about.md
+- DOPPIA F: 
+    DOPPIA F: about.md
 - Aggiornamenti: blog.md
 - Lavori: works.md
 
