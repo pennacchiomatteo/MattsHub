@@ -57,7 +57,7 @@ theme:
 
 nav:
 - Home: index.md
-- DOPPIA F: about.md
+- DOPPIA F: 
     - RHINO: about.md
 - Aggiornamenti: blog.md
 - Lavori: works.md
