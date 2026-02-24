@@ -1,3 +1,3 @@
-# Welcome in NonSoCosaSiamo
+# Welcome in Matt'sHub
 
-![Foto](home/logo.png)
+![Foto](home/mattshub.png)
