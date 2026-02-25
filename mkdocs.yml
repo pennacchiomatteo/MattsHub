@@ -2,7 +2,8 @@ site_name: Matt'sHub
 site_url: https://mydomain.org/mysite
 theme: 
   name: material
-  logo: home/mattshub.png
+  logo: image/mattshub.png
+  theme:
   extra_css:
       - css/custom.css
 
