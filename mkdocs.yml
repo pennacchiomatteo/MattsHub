@@ -5,7 +5,7 @@ theme:
   logo: home/logo2.png
   theme:
   extra_css:
-      - css/style.css
+      - css/custom.css
 
   palette: 
 
