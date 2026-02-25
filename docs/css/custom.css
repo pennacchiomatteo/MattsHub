@@ -1,4 +1,4 @@
 .md-header__button.md-logo img {
-    height: 1.5rem !important; /* Misura standard che si adatta bene */
+    height: 48px !important; /* Misura standard che si adatta bene */
     width: auto !important;
 }
