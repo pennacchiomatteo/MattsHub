@@ -1,3 +1,3 @@
-# Welcome in Matt'sHub
+# Benvenuti su Matt'sHub
 
-![alt text](logo2.png)
+![Logo](images/logo2.png)
